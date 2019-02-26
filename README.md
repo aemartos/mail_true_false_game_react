@@ -1,4 +1,4 @@
-# True False Game React
+# Mail True False Game React
 
 Mail True False Game React es un juego configurable creado con React y Redux por el GING (Grupo de Internet de Nueva Generación).
 El juego muestra una interfaz de gestión de correo electrónico y el usuario tiene que responder verdadero o falso, dependiendo si el mail es spam o no.
